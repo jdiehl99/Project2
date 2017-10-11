@@ -27,7 +27,7 @@ router.get("/", function (req, res) {
 router.get("/user", function (req, res) {
 
 });
-// Route to donor pagge
+// Route to donor page
 router.get("/donor", function (req, res) {
 
 });
